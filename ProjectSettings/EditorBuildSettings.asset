@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu 1.unity
+    guid: 5a296049a8594b340bb156967b36e4ac
+  - enabled: 1
+    path: Assets/Scenes/Car_scene.unity
+    guid: 0f2aabc11eeb4034493b2d733d6b84ae
+  - enabled: 1
+    path: Assets/Scenes/Car_scene 1.unity
+    guid: 042d7833ddc552245889facb44725ff9
+  - enabled: 1
+    path: Assets/Scenes/Story11.unity
+    guid: 9d6c7c4b3dc96cb44a7c1851671c8a0d
+  - enabled: 1
+    path: Assets/Scenes/Story00.unity
+    guid: cf22b28838092844281c7f6de8ea874e
+  - enabled: 1
+    path: Assets/Scenes/Story0.unity
+    guid: c5dee59738b2b8748a617a37d4cf67fb
+  - enabled: 1
+    path: Assets/Scenes/Story01.unity
+    guid: 77c8e6277f31d8043868f37a2637f6df
+  - enabled: 1
+    path: Assets/Scenes/Story1.unity
+    guid: 7daabd2342aaf9d4cb04387026b3f676
+  - enabled: 1
+    path: Assets/Scenes/Story02.unity
+    guid: e995ac6d47d38b14a8797373194147b5
+  - enabled: 1
+    path: Assets/Scenes/Story2.unity
+    guid: 76a7e54d798be264581bbe90248c4b6c
+  - enabled: 1
+    path: Assets/Scenes/Story03.unity
+    guid: 9d9d17c36b7c75c408fcc95f71a6ddc7
+  - enabled: 1
+    path: Assets/Scenes/Story3.unity
+    guid: 2733fb918cc3b8b46907fa5dd0eca20e
+  - enabled: 1
+    path: Assets/Scenes/Story4.unity
+    guid: de6755e79b4a25b4899615808f807236
+  - enabled: 1
+    path: Assets/Scenes/Story5.unity
+    guid: 6bdf195ae4250984e84117fb97788556
+  - enabled: 1
+    path: Assets/Scenes/Story6.unity
+    guid: 7640d1c6d77a76e4f8b1ad64ca309d17
+  - enabled: 1
+    path: Assets/Scenes/Story7.unity
+    guid: 59b25129ff83fbe4197db03c8955ea3c
+  - enabled: 1
+    path: Assets/Scenes/Story8.unity
+    guid: e048129a7a15ec3418e24048e85d9ddf
+  - enabled: 0
+    path: Assets/Scenes/Story9.unity
+    guid: 109a9880fb499c84fb5baa1786bbd849
+  - enabled: 1
+    path: Assets/Scenes/Story10.unity
+    guid: 52ecb6cea81c8a04db02b20a09339306
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 50a6068491a33214d9fbe3c1f2f22e93
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
