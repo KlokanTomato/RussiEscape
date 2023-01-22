@@ -548,7 +548,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -1083,7 +1082,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -1436,7 +1434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -2127,7 +2124,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -3106,7 +3102,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -3797,7 +3792,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507a79fab18014a4fb07ab3969a2004d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sound: {fileID: 0}
   hrac: {fileID: 1795862339}
   woundedSprite: {fileID: 21300000, guid: e692fa6a4d200454697a6b85a14b01f9, type: 3}
   destroyedSprite: {fileID: 21300000, guid: 34a40a81352845e468ba08bc06501b15, type: 3}
@@ -4253,6 +4247,10 @@ PrefabInstance:
       propertyPath: healthText
       value: 
       objectReference: {fileID: 1787337051}
+    - target: {fileID: 8643734317241210513, guid: adce96529f11c1946a1e67d2af4f5685, type: 3}
+      propertyPath: levelManager
+      value: 
+      objectReference: {fileID: 176344966}
     - target: {fileID: 8643734317241210513, guid: adce96529f11c1946a1e67d2af4f5685, type: 3}
       propertyPath: normalSprite
       value: 
